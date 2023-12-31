@@ -14,7 +14,7 @@ In this lab we're going to walk through how to create an Active Directory home l
 
 <h2>Environments Used </h2>
 
-- <b>Oracle VirtuaBox</b>
+- <b>Oracle VirtualBox</b>
 
 - <b>Windows Server 2019</b>
   
