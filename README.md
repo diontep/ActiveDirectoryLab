@@ -109,7 +109,7 @@ Configure the network adapters:  <br/>
 <br />
 <img src="https://i.imgur.com/O0fIi7Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eyaRrMy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
