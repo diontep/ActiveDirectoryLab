@@ -9,8 +9,9 @@ In this lab we're going to walk through how to create an Active Directory home l
 
 <h2>Languages and Utilities Used</h2>
 
+- <b>Active Directory</b> 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Command Prompt</b>
 
 <h2>Environments Used </h2>
 
@@ -23,35 +24,123 @@ In this lab we're going to walk through how to create an Active Directory home l
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating Users with Powershell <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Topology <br/>
+<img src="https://i.imgur.com/ozAFMKu.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+<h2>Download Oracle VirtualBox:<h2>
+
+[Oracle VirtualBox](https://www.virtualbox.org/)
+
+<h2>Download Windows Server 2019:<h2>
+ 
+[Server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019) 
+ 
+<h2>Download Windows 10 Disc Image ISO:<h2> 
+ 
+[Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
+ 
+ <br />
+Create the Domain Controller virtual machine by opening Oracle VirtualBox and selecting the Windows Server 2019 ISO file   <br/>
+<img src="https://i.imgur.com/P7VmjVT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Continue following the steps: <br/>
+<img src="https://i.imgur.com/GalWY8v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+<img src="https://i.imgur.com/Bkcwq6Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+<img src="https://i.imgur.com/dd7tZkj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once the Domain Controller is created, go into the settings of the virtual machine:  <br/>
+<img src="https://i.imgur.com/LzujwtV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure the network adapters:  <br/>
+<img src="https://i.imgur.com/V42Up3J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<!--
+<h2>Domain Controller Windows Setup:</h2>
+<img src="https://i.imgur.com/aKQRgx3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/sVsSE6t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/Y6wEqFi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/acgwPwo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/3uhfcmk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/EUGjO21.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/dUGElMK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/k4ahk2S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/LCUWONy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/czN1GAZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/VjzlZA2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/xVodMax.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/FmKgIz8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/3fkNgfd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/oy4SI8w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/MYmwSpv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/mhSYttj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/XSMtdDM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/QQ686K8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/Y1wlYTk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/ojQf3fa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/O0fIi7Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br /><p align="center"><!--
  ```diff
 - text in red
 + text in green
