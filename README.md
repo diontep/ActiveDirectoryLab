@@ -145,6 +145,172 @@ Configure the network adapters:  <br/>
 <br />
 <img src="https://i.imgur.com/3EqnJU3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<img src="https://i.imgur.com/W2YtOPt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/DVTbPKM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/HzKVrEq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/JTvr3uX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/3S05MtE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/cB4HO4g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/7c7yVoW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/87FKpGb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/bB7kLOC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/PVAzlO7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/rKPLZzi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/S781mM0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/GPNLVPM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/nFDcp23.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/6538daB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/haWEqMj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/UCiQnTu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/isbut7L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/s7qHnj8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/n8QTJGX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/XEmDEXr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/juJRCws.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/faAJcLk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/UKNmos7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/pBoZvcr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/n9djvcN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/Aw3ijj8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/Op7bjlw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/sKHnRfE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/2zNUzxD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/mhINaaM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/wGCFKNE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/ZGn7kDP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/0AkNnOj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/idr9kJm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/HcFPJ3h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/hXBBDFd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
