@@ -141,9 +141,9 @@ Configure the network adapters:  <br/>
 <br />
 <img src="https://i.imgur.com/Xo52TKs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xvvoNFF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3EqnJU3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
