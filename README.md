@@ -452,15 +452,15 @@ Configure the network adapters:  <br/>
 <img src="https://i.imgur.com/2yZhhBk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kIB5RzQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tcmh1oq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8xSJP0s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/3oXYB5F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
