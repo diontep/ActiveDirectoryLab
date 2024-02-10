@@ -42,6 +42,7 @@ Topology <br/>
 [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
 <br />
 <br />
+Create the Domain Controller virtual machine
 <img src="https://i.imgur.com/P7VmjVT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
