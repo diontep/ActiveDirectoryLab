@@ -115,7 +115,8 @@ Once the installation is complete, reboot your computer:
 <h2>Set Up IP Addressing:</h2>
 <img src="https://i.imgur.com/ojQf3fa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Click the 🖥️ icon located on the bottom right of your screen Select Network to access your Network Settings Select change adapter options 
+Click the 🖥️ icon located on the bottom right of your screen Select Network to access your Network Settings 
+Select change adapter options 
 <img src="https://i.imgur.com/O0fIi7Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/eyaRrMy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
