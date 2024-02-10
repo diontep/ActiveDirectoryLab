@@ -38,7 +38,6 @@ Topology <br/>
 [Server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019) 
  
 <h2>Download Windows 10 Disc Image ISO:<h2> 
- 
 [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
 <br />
 
@@ -46,7 +45,6 @@ Create the Domain Controller virtual machine by opening Oracle VirtualBox and se
 <img src="https://i.imgur.com/P7VmjVT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-Continue following the steps: 
 <img src="https://i.imgur.com/GalWY8v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -56,11 +54,9 @@ Continue following the steps:
 <img src="https://i.imgur.com/dd7tZkj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Once the Domain Controller is created, go into the settings of the virtual machine:  
 <img src="https://i.imgur.com/LzujwtV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Configure the network adapters:
+<
 <img src="https://i.imgur.com/V42Up3J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
