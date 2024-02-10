@@ -56,11 +56,11 @@ Continue following the steps:
 <img src="https://i.imgur.com/dd7tZkj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Once the Domain Controller is created, go into the settings of the virtual machine:  <br/>
+Once the Domain Controller is created, go into the settings of the virtual machine:  
 <img src="https://i.imgur.com/LzujwtV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configure the network adapters:  <br/>
+Configure the network adapters:
 <img src="https://i.imgur.com/V42Up3J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
