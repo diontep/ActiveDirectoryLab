@@ -70,41 +70,41 @@ Configure the network adapters:
 We will begin by installing Windows Server 2019:
 <img src="https://i.imgur.com/sVsSE6t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Continue following the setup 
+Continue following the setup:
 <img src="https://i.imgur.com/Y6wEqFi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/acgwPwo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/3uhfcmk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Select Custom: Install Windows Only
+Select "Custom: Install Windows Only"
 <img src="https://i.imgur.com/EUGjO21.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/dUGElMK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/k4ahk2S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Create a password for the built-in administrator account 
+Create a password for the built-in administrator account:
 <img src="https://i.imgur.com/LCUWONy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-There is a menu to select "Ctrl+Alt+Delete" by selecting Input < Keyboard < Insert Ctrl+Alt+Delete
+There is a menu to select "Ctrl+Alt+Delete" by selecting Input < Keyboard < Insert Ctrl+Alt+Delete:
 <img src="https://i.imgur.com/czN1GAZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/VjzlZA2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Server Manager will automatically open on startup 
+Server Manager will automatically open on startup: 
 <img src="https://i.imgur.com/xVodMax.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-We will first Insert Guest Additions CD Image for a better viewing experience by selecting Devices < Insert Guest Additions CD Image
+We will first Insert Guest Additions CD Image for a better viewing experience by selecting Devices < Insert Guest Additions CD Image:
 <img src="https://i.imgur.com/FmKgIz8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Open File Explorer < This PC < Open CD Drive (D:) VirtualBox Guest Addition
+Open File Explorer < This PC < Open CD Drive (D:) VirtualBox Guest Addition:
 <img src="https://i.imgur.com/3fkNgfd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Select VBoxWindowsAdditions-amd64
+Select VBoxWindowsAdditions-amd64:
 <img src="https://i.imgur.com/oy4SI8w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Continue with the Oracle VM VirtualBox Guest Additions Setup
+Continue with the Oracle VM VirtualBox Guest Additions Setup:
 <img src="https://i.imgur.com/MYmwSpv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/mhSYttj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -113,7 +113,7 @@ Continue with the Oracle VM VirtualBox Guest Additions Setup
 <br />
 <img src="https://i.imgur.com/QQ686K8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Once the installation is complete, reboot your computer
+Once the installation is complete, reboot your computer:
 <img src="https://i.imgur.com/Y1wlYTk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/ojQf3fa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
