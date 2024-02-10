@@ -56,7 +56,6 @@ Create the Domain Controller virtual machine by opening Oracle VirtualBox and se
 <br />
 <img src="https://i.imgur.com/LzujwtV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<
 <img src="https://i.imgur.com/V42Up3J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
