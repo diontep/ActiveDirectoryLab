@@ -56,6 +56,7 @@ Topology <br/>
 <br />
 <img src="https://i.imgur.com/LzujwtV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/V42Up3J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
