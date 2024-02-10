@@ -90,8 +90,10 @@ There is a menu to select "Ctrl+Alt+Delete" by selecting Input < Keyboard < Inse
 <br />
 <img src="https://i.imgur.com/VjzlZA2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Server Manager will automatically open
 <img src="https://i.imgur.com/xVodMax.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We will first Insert Guest Additions CD Image for a better viewing experience 
 <img src="https://i.imgur.com/FmKgIz8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/3fkNgfd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
