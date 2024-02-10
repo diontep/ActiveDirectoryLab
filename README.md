@@ -93,13 +93,16 @@ There is a menu to select "Ctrl+Alt+Delete" by selecting Input < Keyboard < Inse
 Server Manager will automatically open
 <img src="https://i.imgur.com/xVodMax.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-We will first Insert Guest Additions CD Image for a better viewing experience 
+We will first Insert Guest Additions CD Image for a better viewing experience by selecting Devices < Insert Guest Additions CD Imag
 <img src="https://i.imgur.com/FmKgIz8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Open File Explorer < This PC < Open CD Drive (D:) VirtualBox Guest Addition
 <img src="https://i.imgur.com/3fkNgfd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select VBoxWindowsAdditions-amd64
 <img src="https://i.imgur.com/oy4SI8w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Continue with the Oracle VM VirtualBox Guest Additions Setup
 <img src="https://i.imgur.com/MYmwSpv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/mhSYttj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
