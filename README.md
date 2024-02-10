@@ -85,6 +85,7 @@ Select Custom: Install Windows Only
 Create a password for the built-in administrator account 
 <img src="https://i.imgur.com/LCUWONy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+There is a menu to select "Ctrl+Alt+Delete" by selecting Input < Keyboard < Insert Ctrl+Alt+Delete
 <img src="https://i.imgur.com/czN1GAZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/VjzlZA2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
