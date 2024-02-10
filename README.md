@@ -67,7 +67,7 @@ Configure the network adapters:
 <h2>Domain Controller Windows Setup:</h2>
 <img src="https://i.imgur.com/aKQRgx3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-We will begin by installing Windows Server 2019
+We will begin by installing Windows Server 2019:
 <img src="https://i.imgur.com/sVsSE6t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Continue following the setup 
