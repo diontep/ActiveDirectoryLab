@@ -39,7 +39,7 @@ Topology <br/>
  
 <h2>Download Windows 10 Disc Image ISO:<h2> 
 [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
-<br />
+
 
 Create the Domain Controller virtual machine by opening Oracle VirtualBox and selecting the Windows Server 2019 ISO file:   
 <img src="https://i.imgur.com/P7VmjVT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
