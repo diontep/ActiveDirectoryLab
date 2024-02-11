@@ -171,15 +171,15 @@ We are going to now create a domain:
 <br />
 <img src="https://i.imgur.com/3EqnJU3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Select "Role based or feature-based installation"
 <img src="https://i.imgur.com/W2YtOPt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Select the server that you are going  to install 
+ Select "Role based or feature-based installation"
 <img src="https://i.imgur.com/DVTbPKM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Select Active Directory Domain Services
+Select the server that you are going  to install
 <img src="https://i.imgur.com/HzKVrEq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select Active Directory Domain Services
 <img src="https://i.imgur.com/JTvr3uX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/3S05MtE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
