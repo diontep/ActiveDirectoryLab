@@ -232,18 +232,22 @@ Sign in as Administrator
 Select the start menu and select Active Directory Users and Computers
 <img src="https://i.imgur.com/juJRCws.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Select and right click mydomain.com < New < Organizational Unit
+Select and right click mydomain.com 
 <img src="https://i.imgur.com/faAJcLk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Name Organizational Unit "_ADMINS"
+Select New < Organizational Unit
 <img src="https://i.imgur.com/UKNmos7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Name Organizational Unit "_ADMINS"
 <img src="https://i.imgur.com/pBoZvcr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+The _ADMINS folder has now been created. Select and right click the folder. Select User. 
 <img src="https://i.imgur.com/n9djvcN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Create a new user by entering in their information 
 <img src="https://i.imgur.com/Aw3ijj8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Set a password 
 <img src="https://i.imgur.com/Op7bjlw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/sKHnRfE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
