@@ -193,6 +193,7 @@ Continue
 <br />
 <img src="https://i.imgur.com/87FKpGb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Proceed with the installation 
 <img src="https://i.imgur.com/bB7kLOC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/PVAzlO7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
