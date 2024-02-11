@@ -250,10 +250,12 @@ Create a new user by entering in their information
 Set a password 
 <img src="https://i.imgur.com/Op7bjlw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Your new user has now been created 
 <img src="https://i.imgur.com/sKHnRfE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/2zNUzxD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select and right click the user then select properites
 <img src="https://i.imgur.com/mhINaaM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/wGCFKNE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
