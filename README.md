@@ -327,8 +327,7 @@ Select Network address translation (NAT)
 Use this public interface to connect to the Internet 
 <img src="https://i.imgur.com/B4VqfqP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/vnvkabm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+Complete the Server Setup Wizard 
 <img src="https://i.imgur.com/lRJznf5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/L76nwrn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
