@@ -316,17 +316,15 @@ Select Tools then select Routing and Remote Access
 Rigt click DC (local) then select Configure and Enable Routing and Remote Access
 <img src="https://i.imgur.com/QAPKVGZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/IiNaP0K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Proceed with the Server Setup Wizard
 <img src="https://i.imgur.com/NIb1chl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Select Network address translation (NAT)
+Proceed with the Server Setup Wizard
 <img src="https://i.imgur.com/AYD1jrl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Use this public interface to connect to the Internet 
+Select Network address translation (NAT)
 <img src="https://i.imgur.com/GUeltZT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Use this public interface to connect to the Internet 
 <img src="https://i.imgur.com/B4VqfqP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/vnvkabm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
