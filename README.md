@@ -165,12 +165,17 @@ We will assign the IP address to match the internal NIC listed in the topology
 Copy the following
 <img src="https://i.imgur.com/Xo52TKs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<h2>Install Active Directory Domain Services:</h2>
+We are going to now create a domain:
 <img src="https://i.imgur.com/xvvoNFF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select "Role based or feature-based installation"
 <img src="https://i.imgur.com/3EqnJU3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select the server that you are going  to install 
 <img src="https://i.imgur.com/W2YtOPt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select Active Directory Domain Services
 <img src="https://i.imgur.com/DVTbPKM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/HzKVrEq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
