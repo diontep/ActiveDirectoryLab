@@ -121,8 +121,10 @@ Click the 🖥️ icon located on the bottom right of your screen Select Network
 <br />
 <img src="https://i.imgur.com/eyaRrMy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Rename Ethernet to _INTERNET_ and Ethernet 2 to X_Internal_X
 <img src="https://i.imgur.com/ISXPCwF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Right click each network < Select Status then select Details to view the home IP address of _INTERNET_ and X_Internal_X
 <img src="https://i.imgur.com/SKE7fZ3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/F4xeqrO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
