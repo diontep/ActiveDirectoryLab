@@ -196,26 +196,34 @@ Continue
 Proceed with the installation 
 <img src="https://i.imgur.com/bB7kLOC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Once Active Directory Domain Services is installed select Promote this server to a domain controller 
 <img src="https://i.imgur.com/PVAzlO7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+In the Active Directory Domain Services Configuration Wizard, select add a new forest and enter "mydomain.com"
 <img src="https://i.imgur.com/rKPLZzi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select Domain Name System (DNS) server and Global Catalog (GC)
 <img src="https://i.imgur.com/S781mM0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Enter the Directory Services Restore Mode (DSRM) password 
 <img src="https://i.imgur.com/GPNLVPM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/nFDcp23.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Set the NetBIOS domain name as "MYDOMAIN"
 <img src="https://i.imgur.com/6538daB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select next
 <img src="https://i.imgur.com/haWEqMj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/UCiQnTu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Proceed with the installation 
 <img src="https://i.imgur.com/isbut7L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/s7qHnj8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Your computer will now be restarted 
 <img src="https://i.imgur.com/n8QTJGX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/XEmDEXr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
