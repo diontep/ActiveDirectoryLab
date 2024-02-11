@@ -226,12 +226,16 @@ Your computer will now be restarted
 <br /> 
 <img src="https://i.imgur.com/n8QTJGX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Sign in as Administrator 
 <img src="https://i.imgur.com/XEmDEXr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select the start menu and select Active Directory Users and Computers
 <img src="https://i.imgur.com/juJRCws.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select and right click mydomain.com < New < Organizational Unit
 <img src="https://i.imgur.com/faAJcLk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Name Organizational Unit "_ADMINS"
 <img src="https://i.imgur.com/UKNmos7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/pBoZvcr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
