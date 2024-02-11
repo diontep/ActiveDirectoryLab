@@ -260,16 +260,22 @@ Select and right click the user then select properites
 <br />
 <img src="https://i.imgur.com/wGCFKNE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select the Member Of tab then select Add
 <img src="https://i.imgur.com/ZGn7kDP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Add the user to Domain Admins
 <img src="https://i.imgur.com/0AkNnOj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+The user is now a member of Domain Admins
 <img src="https://i.imgur.com/idr9kJm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Sign out
 <img src="https://i.imgur.com/HcFPJ3h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select other user and enter the credentials of the user you just created 
 <img src="https://i.imgur.com/hXBBDFd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+You are now signed in
 <img src="https://i.imgur.com/kGbJqYl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/KQOujDa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
