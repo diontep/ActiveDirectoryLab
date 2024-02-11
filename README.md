@@ -180,12 +180,15 @@ Select the server that you are going  to install
 Select Active Directory Domain Services
 <img src="https://i.imgur.com/HzKVrEq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select Add Features
 <img src="https://i.imgur.com/JTvr3uX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select next
 <img src="https://i.imgur.com/3S05MtE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/cB4HO4g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Continue 
 <img src="https://i.imgur.com/7c7yVoW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/87FKpGb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
