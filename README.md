@@ -146,16 +146,23 @@ Now we will restart
 <br />
 <img src="https://i.imgur.com/gwIoB8T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<h2>Assign IP Address:</h2>
+We will Ctrl+Alt+Delete to unlock 
 <img src="https://i.imgur.com/qwATla5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Click on Network < Change adapter options
 <img src="https://i.imgur.com/G6v9oFt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Right click X_Internal_X < select Properties
 <img src="https://i.imgur.com/WzOrDfB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select Internet Protocol Version 4
 <img src="https://i.imgur.com/3MeKyXj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We will assign the IP address to match the internal NIC listed in the topology   
 <img src="https://i.imgur.com/WRaHogF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Copy the following
 <img src="https://i.imgur.com/Xo52TKs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/xvvoNFF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
