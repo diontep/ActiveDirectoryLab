@@ -208,22 +208,22 @@ Select Domain Name System (DNS) server and Global Catalog (GC)
 Enter the Directory Services Restore Mode (DSRM) password 
 <img src="https://i.imgur.com/GPNLVPM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Set the NetBIOS domain name as "MYDOMAIN"
 <img src="https://i.imgur.com/nFDcp23.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Set the NetBIOS domain name as "MYDOMAIN"
+Select next
 <img src="https://i.imgur.com/6538daB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Select next
+Proceed with the installation
 <img src="https://i.imgur.com/haWEqMj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/UCiQnTu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Proceed with the installation 
+<br /> 
+Your computer will now be restarted
 <img src="https://i.imgur.com/isbut7L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/s7qHnj8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Your computer will now be restarted 
+<br /> 
 <img src="https://i.imgur.com/n8QTJGX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/XEmDEXr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
