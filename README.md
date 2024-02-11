@@ -275,25 +275,33 @@ Sign out
 Select other user and enter the credentials of the user you just created 
 <img src="https://i.imgur.com/hXBBDFd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-You are now signed in
 <img src="https://i.imgur.com/kGbJqYl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+You are now signed in
 <img src="https://i.imgur.com/KQOujDa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+On Server Manager select Add roles and features 
 <img src="https://i.imgur.com/WgWHOBq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select next
 <img src="https://i.imgur.com/IBu5S53.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select Role based or feature-based installation 
 <img src="https://i.imgur.com/6qYO2zp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select the DC server
 <img src="https://i.imgur.com/GjiKVc4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select Remote Access 
 <img src="https://i.imgur.com/0HhKh7Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select Group Policy Management
 <img src="https://i.imgur.com/qg6CWtH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select DirectAccess and VPN and select Routing
 <img src="https://i.imgur.com/ixI8NUK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select the following:
 <img src="https://i.imgur.com/ouPGz5e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/HzMXVsx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
