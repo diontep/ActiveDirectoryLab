@@ -129,14 +129,19 @@ Right click each network < Select Status then select Details to view the home IP
 <br />
 <img src="https://i.imgur.com/F4xeqrO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<h2>Rename PC:</h2>
+Go to the Start Menu < System
 <img src="https://i.imgur.com/JuySACq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Rename this PC
 <img src="https://i.imgur.com/I4eBApW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We will rename this PC to "DC" which stands for Domain Controller
 <img src="https://i.imgur.com/tBKfpfJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/eibOPCQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Now we will restart 
 <img src="https://i.imgur.com/BmkCoId.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/gwIoB8T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
