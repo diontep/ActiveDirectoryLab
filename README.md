@@ -406,18 +406,16 @@ Skip WINS server
 Select "yes" to activate the scope
 <img src="https://i.imgur.com/pd3OqO4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Finish installation and right click "dc.mydomain.com" and select authorize and then right click once more and select refresh
+Finish installation
 <img src="https://i.imgur.com/ownhaN5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-We can see our IPV4 turned green as well as our scope 
+Right click "dc.mydomain.com" and select authorize and then right click once more and select refresh 
 <img src="https://i.imgur.com/KtfLZBm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+We can see our IPV4 turned green as well as our scope 
 <img src="https://i.imgur.com/ptPbgFi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
 <img src="https://i.imgur.com/IpmDc74.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 <br />
 <img src="https://i.imgur.com/39sARj4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
