@@ -324,7 +324,7 @@ Proceed with the Server Setup Wizard
 Select Network address translation (NAT)
 <img src="https://i.imgur.com/GUeltZT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Use this public interface to connect to the Internet 
+Use this public interface to connect to the Internet (Select _INTERNET_)
 <img src="https://i.imgur.com/B4VqfqP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Complete the Server Setup Wizard 
@@ -332,12 +332,15 @@ Complete the Server Setup Wizard
 <br />
 <img src="https://i.imgur.com/L76nwrn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Remote Access Server and Network Address Translation are now configured 
 <img src="https://i.imgur.com/RJfyYVL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/byQmEiX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/sgFfYrQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+</h2>Set up a DHCP Server on Domain Controller</h2>
+We are going to allow our Windows 10 clients get an IP address that will allow them to browse the internet 
 <img src="https://i.imgur.com/aqv4tNS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/nilPXpV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
