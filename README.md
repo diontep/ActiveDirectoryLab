@@ -352,18 +352,25 @@ Select DHCP Server
 Continue Installation 
 <img src="https://i.imgur.com/nilPXpV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
+Select next
 <img src="https://i.imgur.com/NtDLSnQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Install
 <img src="https://i.imgur.com/gMYdpXo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Wait for installation 
 <img src="https://i.imgur.com/1hRB9Vd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Once installation is complete select tools < DHCP
 <img src="https://i.imgur.com/udTytis.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We can now set up our scope
 <img src="https://i.imgur.com/Vme8g8s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+DHCP's allow computers on the network to automatically receive their IP addresses
 <img src="https://i.imgur.com/ZoCJLZ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We are going to create a scope that will give IP addresses in range 172.16.0.100
 <img src="https://i.imgur.com/oXRkBaF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/2yzvmJF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
