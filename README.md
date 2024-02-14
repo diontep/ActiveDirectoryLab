@@ -395,17 +395,17 @@ Referring to the network diagram we are going to use the IP address of the domai
 We will use the domain controller as our DNS server to join the domain
 <img src="https://i.imgur.com/GxGGxNi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Skip WINS server
 <img src="https://i.imgur.com/ZJ29h4L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Select "yes" to activate the scope
 <img src="https://i.imgur.com/S2bmSTc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Finish installation and right click "dc.mydomain.com" and select authorize and then right click once more and select refresh
+Skip WINS server
 <img src="https://i.imgur.com/I6upEHd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select "yes" to activate the scope
 <img src="https://i.imgur.com/pd3OqO4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Finish installation and right click "dc.mydomain.com" and select authorize and then right click once more and select refresh
 <img src="https://i.imgur.com/ownhaN5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
