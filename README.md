@@ -392,9 +392,10 @@ We will select yes for configuring DHCP options meaning we will want to tell cli
 Referring to the network diagram we are going to use the IP address of the domain controller that has NAT configured on it"172.16.0.100"
 <img src="https://i.imgur.com/07AmUhQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-We will use the domain controller as our DNS server to join the domain
+Select add
 <img src="https://i.imgur.com/GxGGxNi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We will use the domain controller as our DNS server to join the domain
 <img src="https://i.imgur.com/ZJ29h4L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/S2bmSTc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -408,7 +409,7 @@ Select "yes" to activate the scope
 Finish installation and right click "dc.mydomain.com" and select authorize and then right click once more and select refresh
 <img src="https://i.imgur.com/ownhaN5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+We can see our IPV4 turned green as well as our scope 
 <img src="https://i.imgur.com/KtfLZBm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
