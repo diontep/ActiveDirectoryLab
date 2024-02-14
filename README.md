@@ -335,12 +335,13 @@ Complete the Server Setup Wizard
 Remote Access Server and Network Address Translation are now configured 
 <img src="https://i.imgur.com/RJfyYVL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<h2>DHCP Server on Domain Controller:</h2>
+We are going to allow our Windows 10 clients to get an IP address that will allow them to browse the internet
+We select "Add roles and features"
 <img src="https://i.imgur.com/byQmEiX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/sgFfYrQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-</h2>Set up a DHCP Server on Domain Controller</h2>
-We are going to allow our Windows 10 clients get an IP address that will allow them to browse the internet 
 <img src="https://i.imgur.com/aqv4tNS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/nilPXpV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
