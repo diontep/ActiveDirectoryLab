@@ -1,4 +1,4 @@
-<h1>Active Directory Home Lab</h1>
+t<h1>Active Directory Home Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
@@ -422,9 +422,12 @@ We can see our IPV4 turned green as well as our scope
 <br />
 <img src="https://i.imgur.com/NLauz7N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We are going to create users usingba powershell script
 <img src="https://i.imgur.com/a4G57IN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+We have to make a configuration that lets us browse the Internet from the domain controller.
+we do this by disabling IE Enchanted Security Configuration 
 <img src="https://i.imgur.com/oWsu5GC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
