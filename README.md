@@ -415,36 +415,41 @@ Right click "dc.mydomain.com" and select authorize and then right click once mor
 We can see our IPV4 turned green as well as our scope 
 <img src="https://i.imgur.com/ptPbgFi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We are going to make a configuration that allows us to browse the internet from the domain controller 
 <img src="https://i.imgur.com/IpmDc74.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We are going to configure this local server
 <img src="https://i.imgur.com/39sARj4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-We have to make a configuration that lets us browse the Internet from the domain controller.
+Since we have to make a configuration that lets us browse the Internet from the domain controller.
 we do this by disabling IE Enchanted Security Configuration 
 <img src="https://i.imgur.com/NLauz7N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We are going to copy and paste the link to the source code powershell script that allows us to create users by opening internet explorer
 <img src="https://i.imgur.com/a4G57IN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Paste the link and click enter
 <img src="https://i.imgur.com/oWsu5GC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+The link will now download. After the download is complete we click "Save as" to the desktop 
 <img src="https://i.imgur.com/SYGEm7R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+We will extract this script from the desktop 
 <img src="https://i.imgur.com/8K57XY5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+When we open this folder we will see a PowerShell script file and a plaintext file called names
 <img src="https://i.imgur.com/5R8Mm6L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+In this file contains a thousand randomized names
 <img src="https://i.imgur.com/PHHOi07.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+At the very top of the list add your name. We are going to use this file to programmatically create all of these users
 <img src="https://i.imgur.com/cLjeNGL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+We will save and close the file
 <img src="https://i.imgur.com/De4DsJD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+Click Start < Windows PowerShell Ise < More < Run as administrator 
 <img src="https://i.imgur.com/djCxn7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
