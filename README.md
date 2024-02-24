@@ -458,7 +458,7 @@ Select Yes
 Select File < Open 
 <img src="https://i.imgur.com/4hF8ch9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Select This PC < Desktop
+Select This PC
 <img src="https://i.imgur.com/vHFtbrV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Open the AD_PS-master folder
