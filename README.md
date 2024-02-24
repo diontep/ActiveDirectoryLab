@@ -492,8 +492,7 @@ This will import the active directory module and start creating the users
 <br />
 In the meantime open active directory users and computers < right click mydomain.com < select refresh < you will see the _USERS folders that the script created
 <img src="https://i.imgur.com/mQJHHHJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+If we right click mydomain.com and select "find" you will see a window that you can use to search specific users
 <img src="https://i.imgur.com/AQftja0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/kCmhpUd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
