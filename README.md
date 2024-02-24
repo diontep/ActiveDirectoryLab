@@ -476,10 +476,7 @@ Before we do anything we are going to enabke the execution of all scripts on thi
 Select Yes to All
 <img src="https://i.imgur.com/nU17g2l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-<img src="https://i.imgur.com/b1EkiPc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+Enter cd C:\Users\userofyourchoice\Desktop\AD_PS-master
 <img src="https://i.imgur.com/Kd10DBn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
