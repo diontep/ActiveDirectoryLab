@@ -1,4 +1,4 @@
-t<h1>Active Directory Home Lab</h1>
+<h1>Active Directory Home Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
@@ -446,24 +446,25 @@ In this file contains a thousand randomized names
 At the very top of the list add your name. We are going to use this file to programmatically create all of these users
 <img src="https://i.imgur.com/cLjeNGL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-We will save and close the file
+We will save and close the file then run Windows Powershell Ise as administrator (Start < Windows PowerShell Ise < More < Run as administrator)
 <img src="https://i.imgur.com/De4DsJD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Click Start < Windows PowerShell Ise < More < Run as administrator 
+<br /> 
+Select Yes
 <img src="https://i.imgur.com/djCxn7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+<h2>Source Code for the Powershell Script:</h2>
 <img src="https://i.imgur.com/7IgmZuB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select File < Open 
 <img src="https://i.imgur.com/4hF8ch9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+Select This PC < Desktop
 <img src="https://i.imgur.com/vHFtbrV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+Open the AD_PS-master folder
 <img src="https://i.imgur.com/La4VAsp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+Select the 1_CREATE_USERS Powershell Script to open
 <img src="https://i.imgur.com/I3lDnEL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
