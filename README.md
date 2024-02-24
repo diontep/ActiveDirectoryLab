@@ -479,19 +479,18 @@ Select Yes to All
 To pull and create the thousands of users we are going to enter code by typing in "cd C:\Users\userofyourchoice\Desktop\AD_PS-master" then select enter
 <img src="https://i.imgur.com/Kd10DBn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Type in ls
+Type in ls. We will see that the "names.txt" is listed. "names.txt" is the code that creates the thousands on users mentioned earlier
 <img src="https://i.imgur.com/ypP0rCU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-We can now see the "names.txt" is listed. names.txt is the code that creates the thousands on users mentioned earlier
+Towards the top of your screen click green arrow icon to "Play" then select "Run once"
 <img src="https://i.imgur.com/WACaYBM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Towards the top of your screen click green arrow icon to "Play"  
+This will import the active directory module and start creating the users
 <img src="https://i.imgur.com/AXtSlii.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Select "Run once"
 <img src="https://i.imgur.com/bCatpF3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-This will import the active directory module and start creating the users
+In the meantime open active directory users and computers < right click mydomain.com < select refresh < you will see the _USERS folders that the script created
 <img src="https://i.imgur.com/mQJHHHJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
