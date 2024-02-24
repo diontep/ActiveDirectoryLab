@@ -467,12 +467,13 @@ Open the AD_PS-master folder
 Select the 1_CREATE_USERS Powershell Script to open
 <img src="https://i.imgur.com/I3lDnEL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+We have now opened the Powershell script
 <img src="https://i.imgur.com/qfnB3A1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Before we do anything we are going to enabke the execution of all scripts on this server. Type "Set-ExecutionPolicy Unrestricted" then select enter
 <img src="https://i.imgur.com/WHR8m3x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+Select Yes to All
 <img src="https://i.imgur.com/nU17g2l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
