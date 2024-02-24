@@ -495,9 +495,10 @@ In the meantime open active directory users and computers < right click mydomain
 If we right click mydomain.com and select "find" you will see a window that you can use to search specific users
 <img src="https://i.imgur.com/AQftja0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+You are able to search yourself once the script has finished running
 <img src="https://i.imgur.com/kCmhpUd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+The very last thing we have to do is create a Windows 10 virtual machine
 <img src="https://i.imgur.com/sLRy3Lh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
