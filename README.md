@@ -503,7 +503,6 @@ Now that all of our users are created and our environment is now set up we can r
 The only thing we need to set up is our Windows 10 virtual machine in VirtualBox
 <img src="https://imgur.com/SwWrfmf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <h2>Creating Windows 10 Virtual Machine:</h2>
-<img src="https://i.imgur.com/sLRy3Lh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/IFF4ybI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -525,6 +524,8 @@ The only thing we need to set up is our Windows 10 virtual machine in VirtualBox
 <br />
 <img src="https://i.imgur.com/nqCTuDZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<h2>Windows 10 Installation:</h2>
+<img src="https://i.imgur.com/sLRy3Lh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/qNvBcSF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/5jmZMYT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
