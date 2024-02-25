@@ -505,44 +505,44 @@ The only thing we need to set up is our Windows 10 virtual machine in VirtualBox
 <h2>Creating Windows 10 Virtual Machine:</h2>
 <img src="https://i.imgur.com/sLRy3Lh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IFF4ybI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XwLYjYA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XwLYjYA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ChuvW7V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sZ2p9fg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BFLVRRu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sSmBWFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ag6cUbf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/agvAk37.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nqCTuDZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qNvBcSF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5jmZMYT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wCPTWX9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kukTlF7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EJbYWHM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GSQidS6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/itkVFKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3XIYn2D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Zx3h3rh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <img src="https://i.imgur.com/UNyxxL5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
