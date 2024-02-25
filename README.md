@@ -495,9 +495,9 @@ In the meantime open active directory users and computers < right click mydomain
 If we right click mydomain.com and select "find" you will see a window that you can use to search specific users
 <img src="https://i.imgur.com/AQftja0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-You are able to search yourself once the script has finished running. Now that we have all of our users created and our environment set up we can refer to our network diagram.
+You are able to search yourself once the script has finished running.
 <img src="https://i.imgur.com/kCmhpUd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />.
+<br />
 Now that all of our users are created and our environment is now set up we can refer to our network diagram.
 <img src="https://imgur.com/maxxUwb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 The only thing we need to set up is our Windows 10 virtual machine in VirtualBox
