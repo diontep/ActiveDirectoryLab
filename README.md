@@ -495,13 +495,33 @@ In the meantime open active directory users and computers < right click mydomain
 If we right click mydomain.com and select "find" you will see a window that you can use to search specific users
 <img src="https://i.imgur.com/AQftja0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-You are able to search yourself once the script has finished running
+You are able to search yourself once the script has finished running. Now that we have all of our users created and our environment set up we can refer to our network diagram.
 <img src="https://i.imgur.com/kCmhpUd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+The only thing we need to set up is our Windows 10 virtual machine in VirtualBox.
 <img src="https://imgur.com/maxxUwb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Creating Windows 10 Virtual Machine:</h2>
 <img src="https://imgur.com/SwWrfmf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-The very last thing we have to do is create a Windows 10 virtual machine
+
 <img src="https://i.imgur.com/sLRy3Lh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <img src="https://i.imgur.com/l6vT0cW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
