@@ -545,6 +545,43 @@ The only thing we need to set up is our Windows 10 virtual machine in VirtualBox
 <br />
 <img src="https://i.imgur.com/Zx3h3rh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> img
+ https://i.imgur.com/BazFQ4Q.png
+ https://i.imgur.com/ysET2SS.png
+ https://i.imgur.com/oZH4ZwC.png
+ https://i.imgur.com/t7VxUjj.png
+ https://i.imgur.com/90uVUxN.png
+ https://i.imgur.com/rV29636.png
+ https://i.imgur.com/Nk1AbYx.png
+ https://i.imgur.com/1mOVdxN.png
+ https://i.imgur.com/RJ46O3N.png
+ https://i.imgur.com/RS2xd1m.png
+ https://i.imgur.com/BmTEmPa.png
+ https://i.imgur.com/hwKrKkD.png
+ https://i.imgur.com/y3c0BTw.png
+ https://i.imgur.com/jj7fRD4.png
+ https://i.imgur.com/1NEORSk.png
+ https://i.imgur.com/17Ubxif.png
+ https://i.imgur.com/0sCAJ9Z.png
+ https://i.imgur.com/MQFGdvr.png
+ https://i.imgur.com/KnLIccI.png
+ https://i.imgur.com/AUqfAaO.png
+ https://i.imgur.com/eKok5cL.png
+ https://i.imgur.com/9ZYPgTx.png
+ https://i.imgur.com/CTUrZ2d.png
+ https://i.imgur.com/CTUrZ2d.png
+ https://i.imgur.com/5ZuTjyB.png
+ https://i.imgur.com/fxqUrSa.png
+ https://i.imgur.com/QrAyJ7C.png
+ https://i.imgur.com/lneneJp.png
+ https://i.imgur.com/FQ7VX09.png
+ https://i.imgur.com/7YchlAy.png
+ https://i.imgur.com/P1LSew5.png
+ https://i.imgur.com/6VMWOvn.png
+ https://i.imgur.com/ozqT5pt.png
+ https://i.imgur.com/SRLKu49.png
+ https://i.imgur.com/n82HMBT.png
+ 
+ 
 <br />
 <img src="https://i.imgur.com/UNyxxL5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
