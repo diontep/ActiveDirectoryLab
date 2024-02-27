@@ -545,6 +545,10 @@ The only thing we need to set up is our Windows 10 virtual machine in VirtualBox
 <br />
 <img src="https://i.imgur.com/Zx3h3rh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> img
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  https://i.imgur.com/BazFQ4Q.png
  https://i.imgur.com/ysET2SS.png
  https://i.imgur.com/oZH4ZwC.png
