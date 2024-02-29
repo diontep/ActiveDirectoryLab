@@ -533,7 +533,7 @@ Proceed with installation
 Select "I don't have product key"
 <img src="https://i.imgur.com/kukTlF7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Chooe Windows 10 Pro
+Choose Windows 10 Pro
 <img src="https://i.imgur.com/EJbYWHM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Accept the license terms and select next
@@ -553,18 +553,18 @@ Connect to your network
 Continue with limited setup
 <img src="https://i.imgur.com/ysET2SS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+When asked "Who's going to use this PC?" enter in "user" for the name
 <img src="https://i.imgur.com/oZH4ZwC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://i.imgur.com/t7VxUjj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/90uVUxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select next and skip entering in a password 
 <img src="https://i.imgur.com/rV29636.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select accept
 <img src="https://i.imgur.com/Nk1AbYx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/1mOVdxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+Continue
 <img src="https://i.imgur.com/RJ46O3N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/RS2xd1m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -572,6 +572,8 @@ Continue with limited setup
 <img src="https://i.imgur.com/BmTEmPa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/hwKrKkD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/1mOVdxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/y3c0BTw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
