@@ -523,28 +523,34 @@ When powering on the virtual machine locate where the Windows 10 ISO was downloa
 <img src="https://i.imgur.com/agvAk37.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <h2>Windows 10 Installation:</h2>
-<img src="https://i.imgur.com/sLRy3Lh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Proceed with installation 
 <img src="https://i.imgur.com/qNvBcSF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/5jmZMYT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/wCPTWX9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select "I don't have product key"
 <img src="https://i.imgur.com/kukTlF7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Chooe Windows 10 Pro
 <img src="https://i.imgur.com/EJbYWHM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Accept the license terms and select next
 <img src="https://i.imgur.com/GSQidS6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select the drive and continue 
 <img src="https://i.imgur.com/itkVFKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/3XIYn2D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+Select your region
 <img src="https://i.imgur.com/Zx3h3rh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Connect to your network
 <img src="https://i.imgur.com/BazFQ4Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Continue with limited setup
 <img src="https://i.imgur.com/ysET2SS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/oZH4ZwC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -593,6 +599,7 @@ When powering on the virtual machine locate where the Windows 10 ISO was downloa
 <br />
 <img src="https://i.imgur.com/Nk1AbYx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<img src="https://i.imgur.com/sLRy3Lh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/1mOVdxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/RJ46O3N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/RS2xd1m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
