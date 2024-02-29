@@ -565,6 +565,8 @@ Select accept
 <img src="https://i.imgur.com/Nk1AbYx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Continue
+<img src="https://i.imgur.com/1mOVdxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/RJ46O3N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/RS2xd1m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -572,8 +574,6 @@ Continue
 <img src="https://i.imgur.com/BmTEmPa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/hwKrKkD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://i.imgur.com/1mOVdxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/y3c0BTw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
