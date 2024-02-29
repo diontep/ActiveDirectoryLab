@@ -510,26 +510,17 @@ We are going to name this machine "CLIENT1" and use Windows 10 64-bit version
 Set the RAM to atleast 2GB and CPU to atleast 4
 <img src="https://i.imgur.com/XwLYjYA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/XwLYjYA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 Create a hard disk now and select next
 <img src="https://i.imgur.com/ChuvW7V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Before we turn on the client virtual machine right click and go to settingd then go to advanced and turn on the clipboard to allow copy and paste 
+Before we turn on the client virtual machine right click and go to settings then go to advanced and turn on the clipboard to allow copy and paste 
 <img src="https://i.imgur.com/sZ2p9fg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Go to system < processor in case you want to give the client virtual machine more CPU
-<img src="https://i.imgur.com/BFLVRRu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 On the network tab and select internal network as the virtual machine configuration in order to get a DHCP address from the domain controller 
 <img src="https://i.imgur.com/sSmBWFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
-<img src="https://i.imgur.com/ag6cUbf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+When powering on the virtual machine locate where the Windows 10 ISO was downloaded in File Explorer and select it then click "Mount"
 <img src="https://i.imgur.com/agvAk37.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://i.imgur.com/nqCTuDZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <h2>Windows 10 Installation:</h2>
 <img src="https://i.imgur.com/sLRy3Lh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
