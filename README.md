@@ -575,12 +575,16 @@ Continue
 <br />
 <img src="https://i.imgur.com/hwKrKkD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We are going to make sure the internet is working by clicking start < command prompt
 <img src="https://i.imgur.com/y3c0BTw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+In the command line we are going to type "ipconfig /all" 
 <img src="https://i.imgur.com/jj7fRD4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Since the default gateway isn't showing we are going to type "ipconfig" the default gateway is 172.16.0.1
 <img src="https://i.imgur.com/1NEORSk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We will now renew the ip configuration by entering in ipconfig /renew
 <img src="https://i.imgur.com/17Ubxif.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/0sCAJ9Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
