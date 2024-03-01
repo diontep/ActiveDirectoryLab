@@ -594,31 +594,34 @@ We will now renew the ip configuration by entering in ipconfig /renew
 Incase you do not see the default gateway we are going to open the domain controller (DC) virtual machine 
 <img src="https://i.imgur.com/sLRy3Lh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We are going to open the DHCP by opening Server Manager < Tools < DHCP
 <img src="https://i.imgur.com/UNyxxL5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+We are going to check out our lease by right clicking "Scope [172.16.0.0] 172.16.0.10" and selecting properties
 <img src="https://i.imgur.com/6KZes77.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Under IPV4 select Server Options and turn on "003 router" and in the IP address enter the default gateway (172.16.0.1) then select apply
 <img src="https://i.imgur.com/jx3psHr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+Restart by right clicking "dc.mydomain.com" and selecting all tasks < restart
 <img src="https://i.imgur.com/TT5DuI7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+Wait for the DHCP server to start back uo
 <img src="https://i.imgur.com/meyPBas.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+Check the server options and now your router should appear with the default gateway
 <img src="https://i.imgur.com/27yOXrI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+Return back to your client virtual machine and enter in ipconfig /renew to see your default gateway
 <img src="https://i.imgur.com/0UqXLRt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+To see if you can ping to the internet ping "www.google.com"
 <img src="https://i.imgur.com/FjakocH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+You will see connectivity all the way to the default gateway which is the domain controller and the domain controller is NATing and forwarding it out to the internet and then our ping can come back as an echo reply
 <img src="https://i.imgur.com/9lbIwXB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
+We can also ping "mydomain.com" and see activity 
 <img src="https://i.imgur.com/uTHHomV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
