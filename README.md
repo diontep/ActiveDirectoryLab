@@ -591,6 +591,9 @@ We will now renew the ip configuration by entering in ipconfig /renew
 <br />
 <img src="https://i.imgur.com/MQFGdvr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Incase you do not see the default gateway we are going to open the domain controller (DC) virtual machine 
+<img src="
+<br />
 <img src="https://i.imgur.com/UNyxxL5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
