@@ -597,16 +597,12 @@ Incase you do not see the default gateway we are going to open the domain contro
 We are going to open the DHCP by opening Server Manager < Tools < DHCP
 <img src="https://i.imgur.com/UNyxxL5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-We are going to check out our lease by right clicking "Scope [172.16.0.0] 172.16.0.10" and selecting properties
-<img src="https://i.imgur.com/6KZes77.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Under IPV4 select Server Options and turn on "003 router" and in the IP address enter the default gateway (172.16.0.1) then select apply
 <img src="https://i.imgur.com/jx3psHr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Restart by right clicking "dc.mydomain.com" and selecting all tasks < restart
 <img src="https://i.imgur.com/TT5DuI7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Wait for the DHCP server to start back uo
+Wait for the DHCP server to start back up. We are going to check out our lease by right clicking "Scope [172.16.0.0] 172.16.0.10" and selecting properties
 <img src="https://i.imgur.com/meyPBas.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Check the server options and now your router should appear with the default gateway
@@ -618,10 +614,10 @@ Return back to your client virtual machine and enter in ipconfig /renew to see y
 To see if you can ping to the internet ping "www.google.com"
 <img src="https://i.imgur.com/FjakocH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-You will see connectivity all the way to the default gateway which is the domain controller and the domain controller is NATing and forwarding it out to the internet and then our ping can come back as an echo reply
+You will see connectivity all the way to the default gateway which is the domain controller and the domain controller is NATing and forwarding it out to the internet and then our ping can come back as an echo reply. 
 <img src="https://i.imgur.com/9lbIwXB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-We can also ping "mydomain.com" and see activity 
+Under IPV4 select Server Options and turn on "003 router" and in the IP address enter the default gateway (172.16.0.1) then select apply
 <img src="https://i.imgur.com/uTHHomV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -659,6 +655,7 @@ We can also ping "mydomain.com" and see activity
 <br />
 <img src="https://i.imgur.com/oZH4ZwC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+We can also ping "mydomain.com" and see activity
 <img src="https://i.imgur.com/t7VxUjj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/90uVUxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
