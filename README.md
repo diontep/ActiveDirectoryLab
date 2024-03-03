@@ -642,11 +642,7 @@ Under IPV4 select Server Options and turn on "003 router" and in the IP address 
 <br />
 <img src="https://i.imgur.com/8xSJP0s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
 <img src="https://i.imgur.com/3oXYB5F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/BazFQ4Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/hwKrKkD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
