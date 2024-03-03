@@ -597,9 +597,10 @@ Incase you do not see the default gateway we are going to open the domain contro
 We are going to open the DHCP by opening Server Manager < Tools < DHCP
 <img src="https://i.imgur.com/UNyxxL5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+The DHCP window is now open
 <img src="https://i.imgur.com/jx3psHr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Restart by right clicking "dc.mydomain.com" and selecting all tasks < restart
+Restart by right clicking "dc.mydomain.com" and selecting all tasks < restart afterwards select "Scope [172.16.0.0]
 <img src="https://i.imgur.com/TT5DuI7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Wait for the DHCP server to start back up. We are going to check out our lease by right clicking "Scope [172.16.0.0] 172.16.0.10" and selecting properties
@@ -608,7 +609,7 @@ Wait for the DHCP server to start back up. We are going to check out our lease b
 Check the server options and now your router should appear with the default gateway
 <img src="https://i.imgur.com/27yOXrI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Return back to your client virtual machine and enter in ipconfig /renew to see your default gateway
+
 <img src="https://i.imgur.com/0UqXLRt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 To see if you can ping to the internet ping "www.google.com"
@@ -664,14 +665,6 @@ Under IPV4 select Server Options and turn on "003 router" and in the IP address 
 <br />
 <img src="https://i.imgur.com/Nk1AbYx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://i.imgur.com/sLRy3Lh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://i.imgur.com/1mOVdxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://i.imgur.com/RJ46O3N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://i.imgur.com/RS2xd1m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 <img src="https://i.imgur.com/BmTEmPa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/hwKrKkD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -686,6 +679,7 @@ Under IPV4 select Server Options and turn on "003 router" and in the IP address 
 <br />
 <img src="https://i.imgur.com/0sCAJ9Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Return back to your client virtual machine and enter in ipconfig /renew to see your default gateway
 <img src="https://i.imgur.com/MQFGdvr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 We can also ping "mydomain.com" and see activity
