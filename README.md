@@ -609,21 +609,17 @@ Wait for the DHCP server to start back up. We are going to check out our lease b
 Check the server options and now your router should appear with the default gateway
 <img src="https://i.imgur.com/27yOXrI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
 <img src="https://i.imgur.com/0UqXLRt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 To see if you can ping to the internet ping "www.google.com"
 <img src="https://i.imgur.com/FjakocH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-. 
 <img src="https://i.imgur.com/9lbIwXB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Under IPV4 select Server Options and turn on "003 router" and in the IP address enter the default gateway (172.16.0.1) then select apply
 <img src="https://i.imgur.com/uTHHomV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
 <img src="https://i.imgur.com/eMCsQjL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 <br />
 <img src="https://i.imgur.com/Ef9pg0k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -651,21 +647,6 @@ Under IPV4 select Server Options and turn on "003 router" and in the IP address 
 <br />
 <br />
 <img src="https://i.imgur.com/BazFQ4Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://i.imgur.com/ysET2SS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://i.imgur.com/oZH4ZwC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-<img src="https://i.imgur.com/t7VxUjj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://i.imgur.com/90uVUxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://i.imgur.com/rV29636.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://i.imgur.com/Nk1AbYx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://i.imgur.com/BmTEmPa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/hwKrKkD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
