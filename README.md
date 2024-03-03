@@ -614,7 +614,7 @@ Return back to your client virtual machine and enter in ipconfig /renew to see y
 To see if you can ping to the internet ping "www.google.com"
 <img src="https://i.imgur.com/FjakocH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-You will see connectivity all the way to the default gateway which is the domain controller and the domain controller is NATing and forwarding it out to the internet and then our ping can come back as an echo reply. 
+. 
 <img src="https://i.imgur.com/9lbIwXB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Under IPV4 select Server Options and turn on "003 router" and in the IP address enter the default gateway (172.16.0.1) then select apply
@@ -655,7 +655,7 @@ Under IPV4 select Server Options and turn on "003 router" and in the IP address 
 <br />
 <img src="https://i.imgur.com/oZH4ZwC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-We can also ping "mydomain.com" and see activity
+
 <img src="https://i.imgur.com/t7VxUjj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/90uVUxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -665,32 +665,61 @@ We can also ping "mydomain.com" and see activity
 <img src="https://i.imgur.com/Nk1AbYx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/sLRy3Lh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/1mOVdxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/RJ46O3N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/RS2xd1m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/BmTEmPa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/hwKrKkD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/y3c0BTw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/jj7fRD4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/1NEORSk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/17Ubxif.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/0sCAJ9Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/MQFGdvr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+We can also ping "mydomain.com" and see activity
 <img src="https://i.imgur.com/KnLIccI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+You will see connectivity all the way to the default gateway which is the domain controller and the domain controller is NATing and forwarding it out to the internet and then our ping can come back as an echo reply
 <img src="https://i.imgur.com/AUqfAaO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/eKok5cL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/9ZYPgTx.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/CTUrZ2d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/5ZuTjyB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/fxqUrSa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/QrAyJ7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/lneneJp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/FQ7VX09.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/7YchlAy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/P1LSew5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/6VMWOvn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/ozqT5pt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/SRLKu49.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <img src="https://i.imgur.com/n82HMBT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
