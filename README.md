@@ -665,6 +665,7 @@ We can also ping "mydomain.com" and see activity
 You will see connectivity all the way to the default gateway which is the domain controller and the domain controller is NATing and forwarding it out to the internet and then our ping can come back as an echo reply
 <img src="https://i.imgur.com/AUqfAaO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<h2>Renaming client virtual machine to Client 1</h2>
 <img src="https://i.imgur.com/eKok5cL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/9ZYPgTx.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
