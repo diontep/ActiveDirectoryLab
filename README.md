@@ -665,19 +665,26 @@ We can also ping "mydomain.com" and see activity
 You will see connectivity all the way to the default gateway which is the domain controller and the domain controller is NATing and forwarding it out to the internet and then our ping can come back as an echo reply
 <img src="https://i.imgur.com/AUqfAaO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<h2>Renaming client virtual machine to Client 1</h2>
+<h2>Rename the host name (Client 1)</h2>
+Go to the client server and right click the start menu and go to system 
 <img src="https://i.imgur.com/eKok5cL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Instead of clicking "rename this PC" scroll down until you see "rename this PC (advanced)"
 <img src="https://i.imgur.com/9ZYPgTx.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Select change
 <img src="https://i.imgur.com/CTUrZ2d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Rename this comouter to "CLIENT1" and change the domain to "mydomain.com" to join the domain
 <img src="https://i.imgur.com/5ZuTjyB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+You will be asked to enter an existing user of the domain's credentials to join the domain
 <img src="https://i.imgur.com/fxqUrSa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Enter an existing user's credentials or your domain account (up to your preference)
 <img src="https://i.imgur.com/QrAyJ7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Once you join the domain you will be asked to restart your computer
 <img src="https://i.imgur.com/lneneJp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/FQ7VX09.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
