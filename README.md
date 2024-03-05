@@ -687,9 +687,10 @@ Enter an existing user's credentials or your domain account (up to your preferen
 Once you join the domain you will be asked to restart your computer
 <img src="https://i.imgur.com/lneneJp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Switch back to your domain controller and go to start < Server Manager < Tools < DHCP < Scope [172.16.0.0] < Address Leases and you will see one lease from the CLIENT1 computer
+Switch back to your domain controller and go to start < Windows Administrative Tools < Active Directory Users and Computers < Computers folder < you will see that CLIENT1 is a member of the domain 
 <img src="https://camo.githubusercontent.com/b001d9d9ebefaaa676e48df4e51c865b14a1e6793385e58c6fab0658634d33fa/68747470733a2f2f692e696d6775722e636f6d2f6b494235527a512e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Since CLIENT1 is now part of the domain you can sign in with any of the users listed 
 <img src="https://i.imgur.com/FQ7VX09.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/7YchlAy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
